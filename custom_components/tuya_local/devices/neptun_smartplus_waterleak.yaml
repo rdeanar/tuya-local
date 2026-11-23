@@ -282,7 +282,7 @@ entities:
     deprecated: select_alarm_volume and number_alarm_duration  # 2026-11-23
     dps:
       - id: 8
-        type: integer
+        type: string
         optional: true
         name: volume_level
         mapping:
